@@ -4,7 +4,7 @@ Name: Elijah McElwee
 
 Semester: Fall 2026
 
-Instructor: [Course Instructor]
+Instructor: Markum Reed
 
 ## About This Repo
 
